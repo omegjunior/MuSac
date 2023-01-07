@@ -41,7 +41,7 @@ load_template('musac/tpl/about.tpl.php', array(
     'module_desc' => $module->description,
     'module_picture' => 'musac.jpg@musac',
     'module_version' => $module->version,
-    'module_url' => '#',
+    'module_url' => 'https://github.com/omegjunior/MuSac',
     'author_name' => $module->editor_name,
     'author_url' => $module->editor_url,
     'author_email' => 'omegajunior.apps@gmail.com',
